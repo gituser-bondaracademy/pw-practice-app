@@ -1,3 +1,5 @@
 this is a test phrase one
 
 Artem changed this line and test user
+
+This is a new change in the file
